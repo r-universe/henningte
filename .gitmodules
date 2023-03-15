@@ -8,3 +8,8 @@
 	url = https://github.com/henningte/ir
 	shallow = true
 	registered = true
+[submodule "sftime"]
+	path = sftime
+	url = https://github.com/henningte/sftime
+	shallow = true
+	registered = true

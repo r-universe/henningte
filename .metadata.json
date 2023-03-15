@@ -2,5 +2,9 @@
   {
     "package": "ir",
     "oncran": true
+  },
+  {
+    "package": "sftime",
+    "oncran": true
   }
 ]
