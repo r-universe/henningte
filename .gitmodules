@@ -5,6 +5,3 @@
 [submodule "ir"]
 	path = ir
 	url = https://github.com/henningte/ir
-[submodule "sftime"]
-	path = sftime
-	url = https://github.com/henningte/sftime
